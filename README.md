@@ -18,16 +18,6 @@ Este projeto está sendo desenvolvido para criar um alimentador automático para
 - **Controle Remoto via Blynk:** Todas as funcionalidades do alimentador podem ser controladas remotamente através do aplicativo Blynk, permitindo ajustes de horário de alimentação, monitoramento da quantidade de ração, etc.
 - **Feedback Visual no LCD:** Informações como temperatura atual, quantidade de ração e status do alimentador são exibidas em tempo real no display LCD.
 
-## Estado Atual
-
-Este projeto ainda está em fase de desenvolvimento. As funcionalidades básicas estão sendo implementadas e testadas. A integração com o Blynk está sendo configurada para permitir um controle completo através de dispositivos móveis.
-
-## Próximos Passos
-
-- Finalização da integração com o Blynk para monitoramento remoto completo.
-- Ajustes finos nos sensores para melhor precisão na medição da quantidade de ração e temperatura.
-- Implementação de lógica adicional para ajuste automático da quantidade de ração baseado no clima ou no comportamento do animal.
-
 ## Licença
 
 Este projeto é licenciado sob a Licença MIT. Para mais detalhes, consulte o arquivo [LICENSE](./LICENSE).
